@@ -115,6 +115,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CaixasController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProdutosController.cs" />
     <Compile Include="Global.asax.cs">
@@ -158,6 +159,11 @@
     <Content Include="Views\Produtos\Edit.cshtml" />
     <Content Include="Views\Produtos\Details.cshtml" />
     <Content Include="Views\Produtos\Delete.cshtml" />
+    <Content Include="Views\Caixas\Create.cshtml" />
+    <Content Include="Views\Caixas\Index.cshtml" />
+    <Content Include="Views\Caixas\Details.cshtml" />
+    <Content Include="Views\Caixas\Edit.cshtml" />
+    <Content Include="Views\Caixas\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ConnEstoqueDAO\ConnEstoqueDAO.csproj">

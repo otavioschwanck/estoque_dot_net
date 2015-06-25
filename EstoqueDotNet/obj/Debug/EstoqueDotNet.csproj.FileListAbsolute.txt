@@ -25,8 +25,6 @@ C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\obj\Debug\Estoqu
 C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.dll
 C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.csprojResolveAssemblyReference.cache
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.dll
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.dll.config
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.pdb
@@ -56,3 +54,5 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Deploym
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Razor.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Newtonsoft.Json.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Antlr3.Runtime.pdb
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.dll
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.pdb

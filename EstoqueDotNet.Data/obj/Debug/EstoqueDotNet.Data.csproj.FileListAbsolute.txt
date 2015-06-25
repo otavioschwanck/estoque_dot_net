@@ -5,6 +5,5 @@ C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\E
 C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\bin\Debug\EstoqueDotNet.Data.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\bin\Debug\EstoqueDotNet.Data.pdb
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.csprojResolveAssemblyReference.cache
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.pdb

@@ -51,7 +51,7 @@ namespace EstoqueDotNet.Repository
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
 
-            sql.Append("insert into caixas (em_caixa, nome)");
+            sql.Append("insert into caixa (em_caixa, nome)");
             sql.Append("value (@em_caixa, @nome)");
 
 
@@ -71,7 +71,7 @@ namespace EstoqueDotNet.Repository
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
 
-            sql.Append("DELETE FROM caixas where id_caixa=@id_caixa");
+            sql.Append("DELETE FROM caixa where id_caixa=@id_caixa");
 
 
             cmd.Parameters.AddWithValue("@id_caixa", id_caixa);
@@ -88,7 +88,7 @@ namespace EstoqueDotNet.Repository
         {
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
-            sql.Append("update caixas ");
+            sql.Append("update caixa ");
             sql.Append("set em_caixa=@em_caixa, nome=@nome ");
             sql.Append("where id_caixa=@id_caixa");
 
@@ -108,7 +108,7 @@ namespace EstoqueDotNet.Repository
             MySqlCommand cmd = new MySqlCommand();
 
             sql.Append("select * ");
-            sql.Append("From caixas "); 
+            sql.Append("From caixa "); 
             sql.Append("Where id_caixa=@id_caixa");
 
 
