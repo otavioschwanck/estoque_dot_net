@@ -42,9 +42,9 @@ namespace EstoqueDotNet.Repository.Repositorio
 
                         id_produtos = (int)dr["id_produtos"],
                         nome = (string)dr["nome"],
-                        valor_compra = (double)dr["valor_compra"],
+                        valor_compra = (decimal)dr["valor_compra"],
                         qtd = (int)dr["qtd"],
-                        valor_venda = (double)dr["valor_venda"]
+                        valor_venda = (decimal)dr["valor_venda"]
                                                
 
                     });
@@ -112,6 +112,7 @@ namespace EstoqueDotNet.Repository.Repositorio
             cmd.Parameters.AddWithValue("@valor_compra", pProduto.valor_compra);
             cmd.Parameters.AddWithValue("@qtd", pProduto.qtd);
             cmd.Parameters.AddWithValue("@valor_venda", pProduto.valor_venda);
+            cmd.Parameters.AddWithValue("@id_produtos", pProduto.id_produtos);
 
 
 
@@ -146,9 +147,9 @@ namespace EstoqueDotNet.Repository.Repositorio
 
                 id_produtos = (int)dr["id_produtos"],
                 nome = (string)dr["nome"],
-                valor_compra = (double)dr["valor_compra"],
+                valor_compra = (decimal)dr["valor_compra"],
                 qtd = (int)dr["qtd"],
-                valor_venda = (double)dr["valor_venda"]
+                valor_venda = (decimal)dr["valor_venda"]
 
             };
             dr.Close();

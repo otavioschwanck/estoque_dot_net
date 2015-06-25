@@ -16,9 +16,9 @@ namespace ConnEstoqueDAO
 
         private static string StrConn = "Server=localhost" +
                                         ";Port=3306" +
-                                        ";Database=cursos" +
+                                        ";Database=banco_estoque" +
                                         ";Uid=root" +
-                                        ";Pwd=";
+                                        ";Pwd=root";
 
         public static bool Connect()
         {

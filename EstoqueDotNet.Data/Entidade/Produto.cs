@@ -10,9 +10,9 @@ namespace EstoqueDotNet.Data.Entidade
     {
         public int id_produtos { get; set; }
         public string nome { get; set; }
-        public double valor_compra { get; set; }
+        public decimal valor_compra { get; set; }
         public int qtd { get; set; }
-        public double valor_venda { get; set; }
+        public decimal valor_venda { get; set; }
     }
 
     

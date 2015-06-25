@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ConnEstoqueDAO;
-using EstoqueDotNet.Data.Entidade;
 using MySql.Data.MySqlClient;
+using EstoqueDotNet.Data.Entidade;
+
 
 namespace EstoqueDotNet.Repository.Repositorio
 {

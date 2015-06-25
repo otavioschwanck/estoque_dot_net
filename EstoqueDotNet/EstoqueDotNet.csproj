@@ -116,6 +116,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProdutosController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -152,8 +153,30 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Produtos\Index.cshtml" />
+    <Content Include="Views\Produtos\Create.cshtml" />
+    <Content Include="Views\Produtos\Edit.cshtml" />
+    <Content Include="Views\Produtos\Details.cshtml" />
+    <Content Include="Views\Produtos\Delete.cshtml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ConnEstoqueDAO\ConnEstoqueDAO.csproj">
+      <Project>{d66dc2e1-0f89-4660-8953-ad2eea54e0a8}</Project>
+      <Name>ConnEstoqueDAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstoqueDotNet.Data\EstoqueDotNet.Data.csproj">
+      <Project>{6ba2a990-af8e-41e0-8b40-36f8e376644a}</Project>
+      <Name>EstoqueDotNet.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstoqueDotNet.Repository\EstoqueDotNet.Repository.csproj">
+      <Project>{156bce7d-b8bb-4f71-be47-1c8d8f67c5bb}</Project>
+      <Name>EstoqueDotNet.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EstoqueDotNet.Service\EstoqueDotNet.Service.csproj">
+      <Project>{771a69b8-f035-42ec-9cbf-da107c760468}</Project>
+      <Name>EstoqueDotNet.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />

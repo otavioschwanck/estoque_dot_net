@@ -1,0 +1,9 @@
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Repository.dll
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Repository.pdb
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\ConnEstoqueDAO.dll
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Data.dll
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\ConnEstoqueDAO.pdb
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Data.pdb
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.csprojResolveAssemblyReference.cache
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.dll
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.pdb
