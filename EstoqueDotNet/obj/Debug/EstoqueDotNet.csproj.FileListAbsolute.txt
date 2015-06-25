@@ -34,7 +34,6 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Antlr3.Runtime.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\ConnEstoqueDAO.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Data.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Repository.dll
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Service.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Newtonsoft.Json.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Helpers.dll
@@ -45,13 +44,9 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Deploym
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Razor.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\WebGrease.dll
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Http.dll
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Net.Http.Formatting.dll
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Http.WebHost.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\ConnEstoqueDAO.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Data.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Repository.pdb
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Service.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Helpers.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Mvc.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Optimization.xml
@@ -61,6 +56,3 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Deploym
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.WebPages.Razor.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Newtonsoft.Json.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Antlr3.Runtime.pdb
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Http.xml
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Net.Http.Formatting.xml
-C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\System.Web.Http.WebHost.xml

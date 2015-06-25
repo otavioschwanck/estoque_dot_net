@@ -172,10 +172,6 @@
       <Project>{156bce7d-b8bb-4f71-be47-1c8d8f67c5bb}</Project>
       <Name>EstoqueDotNet.Repository</Name>
     </ProjectReference>
-    <ProjectReference Include="..\EstoqueDotNet.Service\EstoqueDotNet.Service.csproj">
-      <Project>{771a69b8-f035-42ec-9cbf-da107c760468}</Project>
-      <Name>EstoqueDotNet.Service</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
