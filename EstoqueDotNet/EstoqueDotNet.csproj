@@ -115,6 +115,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\SaidaController.cs" />
+    <Compile Include="Controllers\EntradaController.cs" />
     <Compile Include="Controllers\CaixasController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProdutosController.cs" />
@@ -151,7 +153,6 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\Produtos\Index.cshtml" />
@@ -164,6 +165,16 @@
     <Content Include="Views\Caixas\Details.cshtml" />
     <Content Include="Views\Caixas\Edit.cshtml" />
     <Content Include="Views\Caixas\Delete.cshtml" />
+    <Content Include="Views\Entrada\Index.cshtml" />
+    <Content Include="Views\Entrada\Details.cshtml" />
+    <Content Include="Views\Entrada\Create.cshtml" />
+    <Content Include="Views\Entrada\Edit.cshtml" />
+    <Content Include="Views\Entrada\Delete.cshtml" />
+    <Content Include="Views\Saida\Index.cshtml" />
+    <Content Include="Views\Saida\Details.cshtml" />
+    <Content Include="Views\Saida\Create.cshtml" />
+    <Content Include="Views\Saida\Edit.cshtml" />
+    <Content Include="Views\Saida\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ConnEstoqueDAO\ConnEstoqueDAO.csproj">

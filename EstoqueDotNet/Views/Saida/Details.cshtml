@@ -1,0 +1,66 @@
+﻿@model EstoqueDotNet.Data.Entidade.Saida
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Saida</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.id_saida)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id_saida)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.data)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.data)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.descricao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.caixa_id_caixa)
+        </dt>
+
+        <dd>
+            @ViewBag.CaixaNome.nome
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.produtos_id_produtos)
+        </dt>
+
+        <dd>
+            @ViewBag.Produto.nome
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.qtd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.qtd)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.id_saida  }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

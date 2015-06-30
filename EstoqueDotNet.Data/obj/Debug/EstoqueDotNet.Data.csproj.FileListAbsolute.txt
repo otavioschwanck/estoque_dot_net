@@ -7,3 +7,4 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\bin\Debug\EstoqueDotNet.Da
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\bin\Debug\EstoqueDotNet.Data.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.pdb
+C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Data\obj\Debug\EstoqueDotNet.Data.csprojResolveAssemblyReference.cache

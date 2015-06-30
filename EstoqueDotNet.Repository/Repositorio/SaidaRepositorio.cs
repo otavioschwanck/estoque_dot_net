@@ -23,7 +23,7 @@ namespace EstoqueDotNet.Repository.Repositorio
 
             // sql.Append("select IdConta, QtdKwMes, max(QtdKwMes) ");
             sql.Append("select * ");
-            sql.Append("From saidas ");
+            sql.Append("From saida ");
             sql.Append("order by id_saida asc");
 
 
@@ -59,7 +59,7 @@ namespace EstoqueDotNet.Repository.Repositorio
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
 
-            sql.Append("insert into saidas (data, descricao, caixa_id_caixa, produtos_id_produtos, qtd)");
+            sql.Append("insert into saida (data, descricao, caixa_id_caixa, produtos_id_produtos, qtd)");
             sql.Append("value (@data, @descricao, @caixa_id_caixa, @produtos_id_produtos, @qtd)");
 
 
@@ -84,7 +84,7 @@ namespace EstoqueDotNet.Repository.Repositorio
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
 
-            sql.Append("DELETE FROM saidas where id_saida=@id_saida");
+            sql.Append("DELETE FROM saida where id_saida=@id_saida");
 
 
             cmd.Parameters.AddWithValue("@id_saida", id_saida);
@@ -102,7 +102,7 @@ namespace EstoqueDotNet.Repository.Repositorio
         {
             StringBuilder sql = new StringBuilder();
             MySqlCommand cmd = new MySqlCommand();
-            sql.Append("update saidas ");
+            sql.Append("update saida ");
             sql.Append("set data=@data, descricao=@descricao, caixa_id_caixa=@caixa_id_caixa, produtos_id_produtos=@produtos_id_produtos, qtd=@qtd ");
             sql.Append("where id_saida=@id_saida");
 
@@ -126,7 +126,7 @@ namespace EstoqueDotNet.Repository.Repositorio
             MySqlCommand cmd = new MySqlCommand();
 
             sql.Append("select * ");
-            sql.Append("From saidas ");
+            sql.Append("From saida ");
             sql.Append("Where id_saida=@id_saida");
 
 

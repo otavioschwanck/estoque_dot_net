@@ -133,7 +133,7 @@ USE `banco_estoque`$$
 CREATE TRIGGER `entrada_AINS` AFTER INSERT ON `entrada` FOR EACH ROW
 begin
 		declare valor decimal;
-		set valor = (select valor_venda from produtos where id_produtos = new.produtos_id_produtos limit 1);
+		set valor = (select valor_compra from produtos where id_produtos = new.produtos_id_produtos limit 1);
 		update caixa set em_caixa = em_caixa - (new.qtd * valor) where id_caixa = new.caixa_id_caixa;
 		update produtos set qtd = qtd + new.qtd where id_produtos = new.produtos_id_produtos;
 end $$
