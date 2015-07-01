@@ -2,3 +2,8 @@ C:\Users\victo_000\estoque_dot_net\ConnEstoqueDAO\bin\Debug\ConnEstoqueDAO.dll
 C:\Users\victo_000\estoque_dot_net\ConnEstoqueDAO\bin\Debug\ConnEstoqueDAO.pdb
 C:\Users\victo_000\estoque_dot_net\ConnEstoqueDAO\obj\Debug\ConnEstoqueDAO.dll
 C:\Users\victo_000\estoque_dot_net\ConnEstoqueDAO\obj\Debug\ConnEstoqueDAO.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\ConnEstoqueDAO\bin\Debug\ConnEstoqueDAO.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\ConnEstoqueDAO\bin\Debug\ConnEstoqueDAO.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\ConnEstoqueDAO\bin\Debug\mysql.data.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\ConnEstoqueDAO\obj\Debug\ConnEstoqueDAO.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\ConnEstoqueDAO\obj\Debug\ConnEstoqueDAO.pdb

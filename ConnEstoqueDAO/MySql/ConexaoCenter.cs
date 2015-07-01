@@ -18,7 +18,8 @@ namespace ConnEstoqueDAO
                                         ";Port=3306" +
                                         ";Database=banco_estoque" +
                                         ";Uid=root" +
-                                        ";Pwd=root";
+                                        ";Pwd=";
+    
 
         public static bool Connect()
         {

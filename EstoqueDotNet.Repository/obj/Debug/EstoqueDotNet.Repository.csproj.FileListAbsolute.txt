@@ -7,3 +7,13 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDot
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.csprojResolveAssemblyReference.cache
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Repository.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Repository.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\ConnEstoqueDAO.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Data.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\mysql.data.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\ConnEstoqueDAO.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\bin\Debug\EstoqueDotNet.Data.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet.Repository\obj\Debug\EstoqueDotNet.Repository.pdb

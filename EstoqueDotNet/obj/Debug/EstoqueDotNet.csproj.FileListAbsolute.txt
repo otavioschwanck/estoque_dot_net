@@ -56,3 +56,10 @@ C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Newtonsoft.Json.xml
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\bin\Antlr3.Runtime.pdb
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.dll
 C:\Users\victo_000\estoque_dot_net\EstoqueDotNet\obj\Debug\EstoqueDotNet.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\ConnEstoqueDAO.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Data.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Repository.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\MySql.Data.dll
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\ConnEstoqueDAO.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Data.pdb
+C:\Users\Morpheu\Documents\GitHub\estoque_dot_net\EstoqueDotNet\bin\EstoqueDotNet.Repository.pdb
