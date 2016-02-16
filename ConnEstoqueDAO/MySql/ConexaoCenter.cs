@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
+// Test
 namespace ConnEstoqueDAO
 {
     public class ConexaoCenter
